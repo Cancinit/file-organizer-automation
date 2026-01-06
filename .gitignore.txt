@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+venv/
+
+# PyInstaller (Archivos generados que no deben subirse)
+*.spec
+build/
+dist/
+*.manifest
